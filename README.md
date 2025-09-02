@@ -68,11 +68,7 @@ To run this project, you will need to use the `ECG.ipynb` Jupyter Notebook. The 
     ```bash
     git clone [https://github.com/ADVAYA1/ecg-classification.git](https://github.com/ADVAYA1/ecg-classification.git)
     ```
-2.  **Install the dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-3.  **Run the Jupyter Notebook:**
+2.  **Run the Jupyter Notebook:**
     ```bash
     jupyter notebook ECG.ipynb
     ```
